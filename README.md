@@ -1,4 +1,4 @@
-# Example Hub
+# Example Hub  https://www.gnu.org/licenses/
 
 A hub of frontend, agent kits, and smart contract examples for BNB Chain developers. Build and innovate with
 ready-to-use resources.
